@@ -1,0 +1,2 @@
+# learn-js
+full javascript 
